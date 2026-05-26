@@ -1,32 +1,3 @@
-
-
-Dávid — 2026. 05. 01. 17:59
-Ez wifi, nyáron be kéne húznom egy kábelt
-𝑬𝑨𝑵𝑫𝖔𝖈𝖙𝖔𝖗 — 2026. 05. 01. 18:00
-az durván nagyotr menne
-Dávid — 2026. 05. 01. 18:00
-Gyakorlatban 1000/1000
-Mármint papíron
-𝑬𝑨𝑵𝑫𝖔𝖈𝖙𝖔𝖗 — 2026. 05. 01. 18:00
-lesz az kábellel
-Dávid — 2026. 05. 01. 18:00
-Szerintem is.
-𝑬𝑨𝑵𝑫𝖔𝖈𝖙𝖔𝖗 — 2026. 05. 01. 18:00
-de ez így is k*va jó
-Dávid — 2026. 05. 01. 18:01
-Nem rossz, maradjunk annyiban 🙂
-Dávid — 2026. 05. 14. 16:23
-Továbbítva
-Csatolt fájltípus: acrobat
-ágazativ.pdf
-4.00 MB
-𝑬𝑨𝑵𝑫𝖔𝖈𝖙𝖔𝖗 — 2026. 05. 14. 18:40
-Továbbítva
-Csatolt fájltípus: unknown
-ÁAV - 2025 - PG(1).pka
-447.56 KB
-Dávid — 21:01
-danke
 def get_empty_board():
     '''
     Returns a list with 3 sublists.
